@@ -1,0 +1,15 @@
+[
+ {
+  "name": "Heroic Epic",
+  "cost": 125,
+  "culture": 1,
+  "isNationalWonder": true,
+  "uniques": 
+    [
+     "Requires a [Barracks] in all cities", 
+     "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion",
+     "Cost increases by [30] per owned city"
+     ],
+  "requiredTech": "Iron Working"
+ },
+]
