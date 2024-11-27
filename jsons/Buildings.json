@@ -6,7 +6,7 @@
   "isNationalWonder": true,
   "uniques": 
     [
-     "Requires a [Barracks] in all cities", 
+     "Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", 
      "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion",
      "Cost increases by [30] per owned city"
      ],
